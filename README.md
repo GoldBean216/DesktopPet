@@ -40,6 +40,7 @@ DesktopPet is a Unity-based desktop companion application that brings a cute, in
 ### Controls
 *   **Left Click (Hold & Drag)**: Move the cat around the screen.
 *   **Left Click (Tap)**: Interact with the cat.
+*   **Right Click**: Open the settings menu/UI panel.
 *   **UI Interaction**: Click buttons on the settings panel to configure the app.
 
 ---
